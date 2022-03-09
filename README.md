@@ -1,12 +1,16 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### Udacity: Programming for Data Science with Python Nanodegree
 
-### Date created: March 3, 2022
+### Goal: 
+Learn the programming fundamentals required for a career in data science using Python language. Study the relational databases and interact with them using SQL language and Git to publish the work online.
 
-### Udacity-programming-for-Data-Science-With-Python-Nanodegree
+### Chris Messier
 
-### Description: In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
+### Date created: 
+March 3, 2022
 
-### Files used: chicago.csv, new_york_city.csv, washington.csv and bikeshare.py
+### Project 3: 
+Simulated a realistic workflow to refactor previous Project 2 using Git.
 
-### Credits: (https://git-scm.com/doc)
+### Credits: 
+(https://git-scm.com/doc)
 
